@@ -1,60 +1,46 @@
 {
-	"response_code": 200,
-	"message": "",
-	"result":  [
-    {
-        "Title": "Bere acqua",
-        "Resume_description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica...",
-        "Description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno",
- 
-    },
- 
-    {
-        "Title": "Chiudi l’acqua",
-        "Resume_description": "Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta...",
-        "Description": "Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta. Ridurre i consumi è un obbligo morale, specialmente nelle stagioni meno piovose. In Italia ogni persona consuma 245 litri di acqua potabile al giorno (fonte: ISTAT). La cifra porta il Bel Paese a essere uno degli Stati con i consumi idrici più alti. Per invertire questa tendenza è necessario un solo accorgimento ma continuo: chiudere l’acqua quando non serve. Durante il lavaggio dei denti, sotto la doccia quando ci si insapona oppure quando si lavano i piatti tra una stoviglia e l’altra, sono solo alcuni momenti in cui è possibile chiudere l’acqua. Inoltre è sempre meglio fare una doccia piuttosto che un bagno con la vasca piena e azionare lavatrici e lavastoviglie solamente a pieno carico.",
- 
-    },
- 
-    {
-        "Title": "Mangiare Curcuma",
-        "Resume_description": "Un toccasana contro l'invecchiamento e l'inquinamento...",
-        "Description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno",
- 
-    },
- 
-    {
-        "Title": "Abbassa il riscaldamento",
-        "Resume_description": "Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento...",
-        "Description": "Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento. La statistica dice che ogni grado in meno fa risparmiare dal 5% al 10% sui consumi di carburante annui. Non poco. La tecnologia, oggi, permette di ridurre i consumi dovuti al riscaldamento in maniera molto più semplice rispetto a qualche anno fa. I sempre più presenti sistemi domotici, infatti, offrono la possibilità di avere costantemente sotto controllo la temperatura in casa e negli uffici. Alcuni sistemi permettono di azionare il calorifero da remoto, quando magari si sta rincasando. In questo modo il riscaldamento sarà disattivato quando non serve e si attiverà giusto in tempo per scaldare la casa al ritorno.",
- 
-    },
-    {
-        "Title": "Bere acqua",
-        "Resume_description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica...",
-        "Description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno",
- 
-    },
- 
-    {
-        "Title": "Chiudi l’acqua",
-        "Resume_description": "Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta...",
-        "Description": "Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta. Ridurre i consumi è un obbligo morale, specialmente nelle stagioni meno piovose. In Italia ogni persona consuma 245 litri di acqua potabile al giorno (fonte: ISTAT). La cifra porta il Bel Paese a essere uno degli Stati con i consumi idrici più alti. Per invertire questa tendenza è necessario un solo accorgimento ma continuo: chiudere l’acqua quando non serve. Durante il lavaggio dei denti, sotto la doccia quando ci si insapona oppure quando si lavano i piatti tra una stoviglia e l’altra, sono solo alcuni momenti in cui è possibile chiudere l’acqua. Inoltre è sempre meglio fare una doccia piuttosto che un bagno con la vasca piena e azionare lavatrici e lavastoviglie solamente a pieno carico.",
- 
-    },
- 
-    {
-        "Title": "Mangiare Curcuma",
-        "Resume_description": "Un toccasana contro l'invecchiamento e l'inquinamento...",
-        "Description": "E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno",
- 
-    },
- 
-    {
-        "Title": "Abbassa il riscaldamento",
-        "Resume_description": "Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento...",
-        "Description": "Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento. La statistica dice che ogni grado in meno fa risparmiare dal 5% al 10% sui consumi di carburante annui. Non poco. La tecnologia, oggi, permette di ridurre i consumi dovuti al riscaldamento in maniera molto più semplice rispetto a qualche anno fa. I sempre più presenti sistemi domotici, infatti, offrono la possibilità di avere costantemente sotto controllo la temperatura in casa e negli uffici. Alcuni sistemi permettono di azionare il calorifero da remoto, quando magari si sta rincasando. In questo modo il riscaldamento sarà disattivato quando non serve e si attiverà giusto in tempo per scaldare la casa al ritorno.",
- 
-    }
-]
+   "response_code":200,
+   "message":"",
+   "result":[
+      {
+         "Title":"Bere acqua",
+         "Resume_description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica...",
+         "Description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno"
+      },
+      {
+         "Title":"Chiudi l’acqua",
+         "Resume_description":"Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta...",
+         "Description":"Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta. Ridurre i consumi è un obbligo morale, specialmente nelle stagioni meno piovose. In Italia ogni persona consuma 245 litri di acqua potabile al giorno (fonte: ISTAT). La cifra porta il Bel Paese a essere uno degli Stati con i consumi idrici più alti. Per invertire questa tendenza è necessario un solo accorgimento ma continuo: chiudere l’acqua quando non serve. Durante il lavaggio dei denti, sotto la doccia quando ci si insapona oppure quando si lavano i piatti tra una stoviglia e l’altra, sono solo alcuni momenti in cui è possibile chiudere l’acqua. Inoltre è sempre meglio fare una doccia piuttosto che un bagno con la vasca piena e azionare lavatrici e lavastoviglie solamente a pieno carico."
+      },
+      {
+         "Title":"Mangiare Curcuma",
+         "Resume_description":"Un toccasana contro l'invecchiamento e l'inquinamento...",
+         "Description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno"
+      },
+      {
+         "Title":"Abbassa il riscaldamento",
+         "Resume_description":"Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento...",
+         "Description":"Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento. La statistica dice che ogni grado in meno fa risparmiare dal 5% al 10% sui consumi di carburante annui. Non poco. La tecnologia, oggi, permette di ridurre i consumi dovuti al riscaldamento in maniera molto più semplice rispetto a qualche anno fa. I sempre più presenti sistemi domotici, infatti, offrono la possibilità di avere costantemente sotto controllo la temperatura in casa e negli uffici. Alcuni sistemi permettono di azionare il calorifero da remoto, quando magari si sta rincasando. In questo modo il riscaldamento sarà disattivato quando non serve e si attiverà giusto in tempo per scaldare la casa al ritorno."
+      },
+      {
+         "Title":"Bere acqua",
+         "Resume_description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica...",
+         "Description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno"
+      },
+      {
+         "Title":"Chiudi l’acqua",
+         "Resume_description":"Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta...",
+         "Description":"Se le foreste rappresentano il polmone della Terra, l’acqua è il bene più prezioso di tutto il pianeta. Ridurre i consumi è un obbligo morale, specialmente nelle stagioni meno piovose. In Italia ogni persona consuma 245 litri di acqua potabile al giorno (fonte: ISTAT). La cifra porta il Bel Paese a essere uno degli Stati con i consumi idrici più alti. Per invertire questa tendenza è necessario un solo accorgimento ma continuo: chiudere l’acqua quando non serve. Durante il lavaggio dei denti, sotto la doccia quando ci si insapona oppure quando si lavano i piatti tra una stoviglia e l’altra, sono solo alcuni momenti in cui è possibile chiudere l’acqua. Inoltre è sempre meglio fare una doccia piuttosto che un bagno con la vasca piena e azionare lavatrici e lavastoviglie solamente a pieno carico."
+      },
+      {
+         "Title":"Mangiare Curcuma",
+         "Resume_description":"Un toccasana contro l'invecchiamento e l'inquinamento...",
+         "Description":"E' molto importante mantenere l'organismo idratato perché questo liquido prezioso ci depura e disintossica, in particolare facilita l'espulsione tramite la diuresi delle sostanze inquinanti che si accumulano nell'organismo. Secondo gli esperti bisognerebbe bere 1,5 - 2 litri di acqua al giorno"
+      },
+      {
+         "Title":"Abbassa il riscaldamento",
+         "Resume_description":"Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento...",
+         "Description":"Diminuire di qualche grado il riscaldamento in casa permette di avere un significativo risparmio sia di denaro che di inquinamento. La statistica dice che ogni grado in meno fa risparmiare dal 5% al 10% sui consumi di carburante annui. Non poco. La tecnologia, oggi, permette di ridurre i consumi dovuti al riscaldamento in maniera molto più semplice rispetto a qualche anno fa. I sempre più presenti sistemi domotici, infatti, offrono la possibilità di avere costantemente sotto controllo la temperatura in casa e negli uffici. Alcuni sistemi permettono di azionare il calorifero da remoto, quando magari si sta rincasando. In questo modo il riscaldamento sarà disattivato quando non serve e si attiverà giusto in tempo per scaldare la casa al ritorno."
+      }
+   ]
 }
